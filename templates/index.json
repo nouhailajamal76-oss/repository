@@ -8,16 +8,990 @@
  * ------------------------------------------------------------
  */
 {
-  "layout": "nexora",
   "sections": {
-    "nexora": {
-      "type": "nx-landing",
+    "image_with_text_overlay_ypzegc": {
+      "type": "image-with-text-overlay",
       "settings": {
-        "product": "collier-nexora-trinite-celte-pierre-de-naissance"
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_ziyRGK": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_7FTkiX": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_WCRJAp": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_7X9hqg": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_CBJAMJ": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_7FTkiX",
+        "logo_WCRJAp",
+        "logo_7X9hqg",
+        "logo_CBJAMJ"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_tnkaEn": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_ydLVQf": {
+          "type": "subheading",
+          "settings": {
+            "text": "ZENICHIEN DEBARQUE EN FRANCE"
+          }
+        },
+        "heading_bQ8kd7": {
+          "type": "heading",
+          "settings": {
+            "text": "Déjà +100K Ventes aux US ! 🇺🇸",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_jg9kXW": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ydLVQf",
+        "heading_bQ8kd7",
+        "richtext_jg9kXW"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_GaYXCf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HWdgQc": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir l'Oreiller Orthopédo 2.0 ?",
+            "heading_tag": "h1",
+            "text_color": "#000000",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HWdgQc"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "#eef1f6",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "image_with_text_overlay_GwYhDd": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_mihemB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fczH87": {
+          "type": "heading",
+          "settings": {
+            "text": "Vous en parlez mieux que nous :",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_fczH87"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_prXEkr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_g8AYdH": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Une technologie innovante sans douleur et à ondes électromagnétiques qui stoppe les aboiements intempestifs",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_g8AYdH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_iQzBDy": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "testimonial_pro_Qqrcjr": {
+      "type": "testimonial-pro",
+      "name": "SS - Testimonial #8",
+      "settings": {
+        "heading": "Our customers tell it better than we do!",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 130,
+        "heading_align": "center",
+        "rating_text": "Excellent",
+        "rating_text_custom": false,
+        "rating_text_font": "josefin_sans_n4",
+        "rating_text_size": 24,
+        "rating_text_size_mobile": 20,
+        "rating_text_height": 130,
+        "rating_text_mt": 16,
+        "rating": 4.7,
+        "rating_hide": false,
+        "rating_text_hide": false,
+        "rating_align": "center",
+        "stars_count": 5,
+        "stars_size": 28,
+        "stars_size_mobile": 24,
+        "stars_align": "center",
+        "text": "<p>based on <strong>1 067</strong> reviews</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_align": "center",
+        "text_mt": 16,
+        "slider_width": 80,
+        "slider_view": 3,
+        "slider_view_mobile": 1.2,
+        "slider_gap": 20,
+        "slider_gap_mobile": 20,
+        "slider_mt": 36,
+        "card_padding_vertical": 32,
+        "card_padding_vertical_mobile": 24,
+        "card_padding_horizontal": 40,
+        "card_padding_horizontal_mobile": 24,
+        "card_radius": 16,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "card_heading_custom": false,
+        "card_heading_font": "josefin_sans_n4",
+        "card_heading_size": 24,
+        "card_heading_size_mobile": 20,
+        "card_heading_height": 130,
+        "card_heading_align": "center",
+        "card_heading_mt": 16,
+        "card_text_custom": false,
+        "card_text_font": "josefin_sans_n4",
+        "card_text_size": 14,
+        "card_text_size_mobile": 14,
+        "card_text_height": 150,
+        "card_text_align": "center",
+        "card_text_mt": 16,
+        "card_text_more": "View More",
+        "card_text_less": "View Less",
+        "card_count_words": 20,
+        "card_author_date_text_custom": false,
+        "card_author_date_text_font": "josefin_sans_n4",
+        "card_author_date_text_size": 16,
+        "card_author_date_text_size_mobile": 16,
+        "card_author_date_text_height": 130,
+        "card_author_date_text_align": "center",
+        "card_author_date_text_mt": 16,
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_icon_size": 28,
+        "arrow_icon_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 12,
+        "dots_size_mobile": 12,
+        "dots_show_desktop": false,
+        "dots_show_mobile": false,
+        "button": "View All",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_align": "center",
+        "button_mt": 16,
+        "button_padding_vertical": 20,
+        "button_padding_horizontal": 16,
+        "button_radius": 8,
+        "button_border_thickness": 0,
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "card_shadow_color": "#00b67a",
+        "card_heading_color": "#000000",
+        "card_text_color": "#000000",
+        "card_author_date_text_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#ffffff",
+        "arrow_border_hover_color": "#ffffff",
+        "dots_color": "#000000",
+        "heading_color": "#000000",
+        "rating_text_color": "#000000",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "linear-gradient(180deg, rgba(206, 239, 199, 1), rgba(255, 255, 255, 1) 100%)",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "multi_column_CrGHPL": {
+      "type": "multi-column",
+      "blocks": {
+        "item_tg83yK": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"Une réelle découverte ! Je suis conquise\"",
+            "heading_tag": "h4",
+            "content": "<p>La matière, l’ergonomie.. tout est pensé avec précision. Cet oreiller semble être fait pour moi, j’en ai également acheter un pour mon papa j’ai déjà hâte de le lui offrir : pour moi c’est désormais un indispensable … je ne me vois pas revenir à des oreillers classiques<br/><br/><strong>Adèle Marchand, 29 ans – Lille (59)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4CG8nz": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"La matière est tellement incroyable...\"",
+            "heading_tag": "h4",
+            "content": "<p>Super confortable, belle couleur et la housse de grande qualité ! C'est validé pour moi !<br/><br/><strong>Jean Pierre Termis, 47 ans – Marseille (13)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8eU4j3": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"Depuis que je l'ai je n'ai plus aucun maux aux cervicales”",
+            "heading_tag": "h4",
+            "content": "<p>Et c'est vrai que le coussin entre les cuisses et un sous la tête est super agréable et ne gêne pas pour la nuit j'adore. Je le recommande pour les personnes qui dorment sur le côté.<br/></p><p><strong>Louise Françoise, 28 ans – Lyon (69)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UnTi7X": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "“Merci je passe des super nuits”",
+            "heading_tag": "h4",
+            "content": "<p>Bonjour, Ça fait une semaine que j’ai reçu mon oreiller et je suis 100 % satisfaite, je le recommande, je dors beaucoup mieux, je n’ai plus mal dans les cervicales et dans le dos, c’est vraiment super .</p><p><em><br/></em><strong>Sophie Bojidarovic, 42 ans – Grenoble (38)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jKryca": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"Je recommande fortement.\"",
+            "heading_tag": "h4",
+            "content": "<p>Cela doit faire deux semaines maintenant que j'ai l'oreiller Orthopédo 2.0. Je suis à 100% satisfaite de mon achat. Je recommande fortement.</p><p><strong>Claire Grenier, 26 ans – Paris (75)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BAVxXm": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"Merci pour la rapidité de livraison\"",
+            "heading_tag": "h4",
+            "content": "<p>Oreiller très confortable, j'étais sceptique mais je dois avouer que je dors bien mieux.<br/><br/><strong>Eric Nzapahoyoro, 37 ans – Lyon (69)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mmzCxW": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"Un changement dans mon sommeil\"",
+            "heading_tag": "h4",
+            "content": "<p>Bien reçu et adopté directement, on ressent un réel repos et un maintient efficace ! Merci Orthopédo<br/><br/><strong>Justin Desfossez, 58 ans – Ivry-sur-Seine (94)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RhnAW6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"J'ai du en racheter un\"",
+            "heading_tag": "h4",
+            "content": "<p>J'ai adoré, meilleur sommeil depuis un moment. Dommage mon chien a fait caca dessus, obligé de prendre un nouvel oreiller et une nouvelle housse hahahaha<br/><br/><strong>Claudine Gervais, 49 ans – Vaux-en-Velin (69)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_tg83yK",
+        "item_4CG8nz",
+        "item_8eU4j3",
+        "item_UnTi7X",
+        "item_jKryca",
+        "item_BAVxXm",
+        "item_mmzCxW",
+        "item_RhnAW6"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_aEYn66": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"urgent-stock-banner-blue\">\n  <span class=\"stock-text-blue\">7X EN RUPTURE DE STOCK | STOCK LIMITÉ</span>\n</div>\n\n<style>\n  .urgent-stock-banner-blue {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    padding: 12px 24px;\n    border: 2px solid #0056b3; /* Un bleu soutenu et professionnel */\n    background-color: rgba(0, 86, 179, 0.05); /* Un léger fond bleu très clair */\n    margin: 20px auto;\n    width: fit-content;\n    border-radius: 2px; /* Optionnel : un léger arrondi pour le style */\n  }\n\n  .stock-text-blue {\n    color: #0056b3;\n    font-family: \"Impact\", \"Arial Black\", sans-serif;\n    font-weight: 800;\n    font-size: 1.3rem;\n    letter-spacing: 1.5px;\n    text-align: center;\n    text-transform: uppercase;\n  }\n\n  @media screen and (max-width: 749px) {\n    .stock-text-blue {\n      font-size: 1rem;\n      letter-spacing: 0.5px;\n    }\n    .urgent-stock-banner-blue {\n      padding: 10px 15px;\n      width: 90%; /* Prend plus de place sur mobile pour la lisibilité */\n    }\n  }\n</style>"
+          }
+        },
+        "liquid_MTYbzz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: ##000000;\n  --social-proof-star-color: #051863;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4,8 par plus de 100,000 clients à travers le monde !\n  </span>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "liquid_8iyw6q": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 4 pièces</div>\n</div>"
+          }
+        },
+        "liquid_pXy6AW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "image_e7RPeA": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
+        "liquid_inMHhX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "liquid_6eJjJt": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% comment %} --- PARAMÈTRES MODIFIABLES --- {% endcomment %}\n{% assign texte_exp = \"Expédition\" %}\n{% assign date_exp = \"Aujourd'hui\" %}\n\n{% assign texte_liv = \"Livraison\" %}\n{% assign date_liv = \"23 février - 23 février\" %}\n\n{% assign bleu_principal = \"#0056b3\" %}\n{% assign fond_bleu_clair = \"#f4f9ff\" %}\n{% comment %} -------------------------------- {% endcomment %}\n\n<div class=\"delivery-bar-horizontal\">\n  \n  <div class=\"delivery-group\">\n    <span class=\"delivery-icon\">\n      <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><polyline points=\"12 6 12 12 16 14\"></polyline></svg>\n    </span>\n    <div class=\"delivery-info\">\n      <span class=\"delivery-label\">{{ texte_exp }}</span>\n      <span class=\"delivery-date\">{{ date_exp }}</span>\n    </div>\n  </div>\n\n  <div class=\"delivery-arrow\">→</div>\n\n  <div class=\"delivery-group\">\n    <span class=\"delivery-icon\">\n      <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"></rect><line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"></line><line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"></line><line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"></line></svg>\n    </span>\n    <div class=\"delivery-info\">\n      <span class=\"delivery-label\">{{ texte_liv }}</span>\n      <span class=\"delivery-date\">{{ date_liv }}</span>\n    </div>\n  </div>\n\n</div>\n\n<style>\n  .delivery-bar-horizontal {\n    display: flex;\n    flex-direction: row;\n    align-items: center;\n    justify-content: center;\n    gap: 30px;\n    background-color: {{ fond_bleu_clair }};\n    border: 1px solid {{ bleu_principal | append: '4D' }}; /* Bordure bleue 30% opacité */\n    border-radius: 12px;\n    padding: 15px 25px;\n    margin: 20px auto;\n    width: fit-content;\n    font-family: sans-serif;\n  }\n\n  .delivery-group {\n    display: flex;\n    align-items: center;\n    gap: 12px;\n  }\n\n  .delivery-icon {\n    width: 24px;\n    height: 24px;\n    color: {{ bleu_principal }};\n    display: flex;\n  }\n\n  .delivery-info {\n    display: flex;\n    flex-direction: column;\n  }\n\n  .delivery-label {\n    font-size: 12px;\n    color: {{ bleu_principal }};\n    opacity: 0.7;\n    margin-bottom: 2px;\n  }\n\n  .delivery-date {\n    font-size: 15px;\n    font-weight: 700;\n    color: {{ bleu_principal }};\n    white-space: nowrap;\n  }\n\n  .delivery-arrow {\n    font-size: 18px;\n    color: {{ bleu_principal }};\n    opacity: 0.5;\n  }\n\n  /* Ajustement Mobile pour garder l'horizontal */\n  @media screen and (max-width: 600px) {\n    .delivery-bar-horizontal {\n      gap: 10px;\n      padding: 12px 10px;\n      width: 95%;\n    }\n    .delivery-date {\n      font-size: 12px;\n    }\n    .delivery-label {\n      font-size: 10px;\n    }\n    .delivery-icon {\n      width: 18px;\n    }\n  }\n</style>"
+          }
+        },
+        "liquid_G8fPzp": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>4 Derniers oreillers en stock&nbsp;!</strong> - Dépêchez-vous. \n  </span>\n</div>\n\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #cb2526;\n}\n\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #cb2526;\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(250, 204, 21, 0.3);\n}\n\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #facc15;\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
+          }
+        },
+        "image_M6BrMy": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_hCaMca": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "separator_Bd4pkp": {
+          "type": "separator",
+          "settings": {}
+        },
+        "buy_buttons_76Tegr": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#0b063d",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_URAADp": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"custom-payment-icons\">\n  <ul class=\"list list-payment\" role=\"list\">\n    <li class=\"list-payment__item\">\n      <svg class=\"icon icon--full-color\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"pi-american_express\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\"><title id=\"pi-american_express\">American Express</title><path fill=\"#000\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z\" opacity=\".07\"></path><path fill=\"#006FCF\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z\"></path><path fill=\"#FFF\" d=\"M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z\"></path><path fill=\"#006FCF\" d=\"M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z\"></path><path fill=\"#006FCF\" d=\"m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z\"></path><path fill=\"#FFF\" d=\"M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z\"></path><path fill=\"#006FCF\" d=\"m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z\"></path><path fill=\"#006FCF\" d=\"M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z\"></path></svg>\n    </li>\n    <li class=\"list-payment__item\">\n      <svg class=\"icon icon--full-color\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" x=\"0\" y=\"0\" width=\"38\" height=\"24\" viewBox=\"0 0 165.521 105.965\" xml:space=\"preserve\" aria-labelledby=\"pi-apple_pay\"><title id=\"pi-apple_pay\">Apple Pay</title><path fill=\"#000\" d=\"M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z\"></path><path fill=\"#FFF\" d=\"M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875\"></path><g><g><path fill=\"#000\" d=\"M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858\"></path><path fill=\"#000\" d=\"M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048\"></path></g><g><path fill=\"#000\" d=\"M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z\"></path><path fill=\"#000\" d=\"M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z\"></path><path fill=\"#000\" d=\"M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z\"></path></g></g></svg>\n    </li>\n    <li class=\"list-payment__item\">\n      <svg class=\"icon icon--full-color\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-google_pay\"><title id=\"pi-google_pay\">Google Pay</title><path d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\" opacity=\".07\"></path><path d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\" fill=\"#FFF\"></path><path d=\"M18.093 11.976v3.2h-1.018v-7.9h2.691a2.447 2.447 0 0 1 1.747.692 2.28 2.28 0 0 1 .11 3.224l-.11.116c-.47.447-1.098.69-1.747.674l-1.673-.006zm0-3.732v2.788h1.698c.377.012.741-.135 1.005-.404a1.391 1.391 0 0 0-1.005-2.354l-1.698-.03zm6.484 1.348c.65-.03 1.286.188 1.778.613.445.43.682 1.03.65 1.649v3.334h-.969v-.766h-.049a1.93 1.93 0 0 1-1.673.931 2.17 2.17 0 0 1-1.496-.533 1.667 1.667 0 0 1-.613-1.324 1.606 1.606 0 0 1 .613-1.336 2.746 2.746 0 0 1 1.698-.515c.517-.02 1.03.093 1.49.331v-.208a1.134 1.134 0 0 0-.417-.901 1.416 1.416 0 0 0-.98-.368 1.545 1.545 0 0 0-1.319.717l-.895-.564a2.488 2.488 0 0 1 2.182-1.06zM23.29 13.52a.79.79 0 0 0 .337.662c.223.176.5.269.785.263.429-.001.84-.17 1.146-.472.305-.286.478-.685.478-1.103a2.047 2.047 0 0 0-1.324-.374 1.716 1.716 0 0 0-1.03.294.883.883 0 0 0-.392.73zm9.286-3.75l-3.39 7.79h-1.048l1.281-2.728-2.224-5.062h1.103l1.612 3.885 1.569-3.885h1.097z\" fill=\"#5F6368\"></path><path d=\"M13.986 11.284c0-.308-.024-.616-.073-.92h-4.29v1.747h2.451a2.096 2.096 0 0 1-.9 1.373v1.134h1.464a4.433 4.433 0 0 0 1.348-3.334z\" fill=\"#4285F4\"></path><path d=\"M9.629 15.721a4.352 4.352 0 0 0 3.01-1.097l-1.466-1.14a2.752 2.752 0 0 1-4.094-1.44H5.577v1.17a4.53 4.53 0 0 0 4.052 2.507z\" fill=\"#34A853\"></path><path d=\"M7.079 12.05a2.709 2.709 0 0 1 0-1.735v-1.17H5.577a4.505 4.505 0 0 0 0 4.075l1.502-1.17z\" fill=\"#FBBC04\"></path><path d=\"M9.629 8.44a2.452 2.452 0 0 1 1.74.68l1.3-1.293a4.37 4.37 0 0 0-3.065-1.183 4.53 4.53 0 0 0-4.027 2.5l1.502 1.171a2.715 2.715 0 0 1 2.55-1.875z\" fill=\"#EA4335\"></path></svg>\n    </li>\n    <li class=\"list-payment__item\">\n      <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-master\"><title id=\"pi-master\">Mastercard</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle><circle fill=\"#F79E1B\" cx=\"23\" cy=\"12\" r=\"7\"></circle><path fill=\"#FF5F00\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path></svg>\n    </li>\n    <li class=\"list-payment__item\">\n      <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" role=\"img\" aria-labelledby=\"pi-paypal\"><title id=\"pi-paypal\">PayPal</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path fill=\"#003087\" d=\"M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z\"></path><path fill=\"#3086C8\" d=\"M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z\"></path><path fill=\"#012169\" d=\"M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z\"></path></svg>\n    </li>\n    <li class=\"list-payment__item\">\n      <svg class=\"icon icon--full-color\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-shopify_pay\"><title id=\"pi-shopify_pay\">Shop Pay</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\"></path><path d=\"M35.889 0C37.05 0 38 .982 38 2.182v19.636c0 1.2-.95 2.182-2.111 2.182H2.11C.95 24 0 23.018 0 21.818V2.182C0 .982.95 0 2.111 0H35.89z\" fill=\"#5A31F4\"></path><path d=\"M9.35 11.368c-1.017-.223-1.47-.31-1.47-.705 0-.372.306-.558.92-.558.54 0 .934.238 1.225.704a.079.079 0 00.104.03l1.146-.584a.082.082 0 00.032-.114c-.475-.831-1.353-1.286-2.51-1.286-1.52 0-2.464.755-2.464 1.956 0 1.275 1.15 1.597 2.17 1.82 1.02.222 1.474.31 1.474.705 0 .396-.332.582-.993.582-.612 0-1.065-.282-1.34-.83a.08.08 0 00-.107-.035l-1.143.57a.083.083 0 00-.036.111c.454.92 1.384 1.437 2.627 1.437 1.583 0 2.539-.742 2.539-1.98s-1.155-1.598-2.173-1.82v-.003zM15.49 8.855c-.65 0-1.224.232-1.636.646a.04.04 0 01-.069-.03v-2.64a.08.08 0 00-.08-.081H12.27a.08.08 0 00-.08.082v8.194a.08.08 0 00.08.082h1.433a.08.08 0 00.081-.082v-3.594c0-.695.528-1.227 1.239-1.227.71 0 1.226.521 1.226 1.227v3.594a.08.08 0 00.081.082h1.433a.08.08 0 00.081-.082v-3.594c0-1.51-.981-2.577-2.355-2.577zM20.753 8.62c-.778 0-1.507.24-2.03.588a.082.082 0 00-.027.109l.632 1.088a.08.08 0 00.11.03 2.5 2.5 0 011.318-.366c1.25 0 2.17.891 2.17 2.068 0 1.003-.736 1.745-1.669 1.745-.76 0-1.288-.446-1.288-1.077 0-.361.152-.657.548-.866a.08.08 0 00.032-.113l-.596-1.018a.08.08 0 00-.098-.035c-.799.299-1.359 1.018-1.359 1.984 0 1.46 1.152 2.55 2.76 2.55 1.877 0 3.227-1.313 3.227-3.195 0-2.018-1.57-3.492-3.73-3.492zM28.675 8.843c-.724 0-1.373.27-1.845.746-.026.027-.069.007-.069-.029v-.572a.08.08 0 00-.08-.082h-1.397a.08.08 0 00-.08.082v8.182a.08.08 0 00.08.081h1.433a.08.08 0 00.081-.081v-2.683c0-.036.043-.054.069-.03a2.6 2.6 0 001.808.7c1.682 0 2.993-1.373 2.993-3.157s-1.313-3.157-2.993-3.157zm-.271 4.929c-.956 0-1.681-.768-1.681-1.783s.723-1.783 1.681-1.783c.958 0 1.68.755 1.68 1.783 0 1.027-.713 1.783-1.681 1.783h.001z\" fill=\"#fff\"></path></svg>\n    </li>\n    <li class=\"list-payment__item\">\n      <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-visa\"><title id=\"pi-visa\">Visa</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path d=\"M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z\" fill=\"#142688\"></path></svg>\n    </li>\n  </ul>\n</div>\n\n<style>\n  .custom-payment-icons .list-payment {\n    display: flex;         /* Active l'alignement horizontal */\n    flex-wrap: wrap;       /* Permet de passer à la ligne sur mobile si besoin */\n    justify-content: center; /* Centre les icônes horizontalement */\n    list-style: none;      /* Enlève les points de liste */\n    padding: 0;\n    margin: 15px 0;        /* Espace autour du bloc */\n    gap: 10px;             /* Espace entre chaque icône */\n  }\n\n  .custom-payment-icons .list-payment__item {\n    display: flex;\n    align-items: center;\n  }\n\n  /* Optionnel : Agrandir un peu les icônes si nécessaire */\n  .custom-payment-icons svg {\n    width: 39px; \n    height: auto;\n  }\n</style>"
+          }
+        },
+        "image_nD7UnA": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
+        "collapsible_text_fBhzjq": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Description",
+            "content": "<p><strong>Matière :</strong> 80 % nylon, 20 % élasthanne<br/><strong>Couleurs disponibles :</strong> Noir, Blanc, Gris<br/><strong>Type :</strong> Gilet de musculation gainant et énergisant</p><ul><li>Se sentir énergique et confiant</li><li>Favorise la perte de poids</li><li>Réduit la gynécomastie</li></ul>"
+          }
+        },
+        "collapsible_text_J9FGb3": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Délais de livraisons",
+            "content": "<p><strong>Nous offrons la livraison gratuite sous 3 à 5 jours ouvrés en France Métropolitaine et Belgique.</strong></p>"
+          }
+        },
+        "collapsible_text_9C3WQy": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Détails de garantie de remboursement 100 Jours",
+            "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincu par votre achat, <strong>vous avez 30 jours pour nous le retourner – SANS JUSTIFICATION</strong>.</p><p> Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Pour toute demande, Contactez-nous a l'adresse :<br/><strong>contact@kynor.fr</strong></p>"
+          }
+        },
+        "liquid_BjcDVy": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"scarcity-container\">\n  <div class=\"scarcity-card\">\n    <h2 class=\"scarcity-main-title\">SOLDES D’HIVER -50%</h2>\n    <p class=\"scarcity-sub-title\">Notre meilleure offre de l’année est là.</p>\n    <p class=\"scarcity-italic\">Offre valable dans la limite des stocks disponibles.</p>\n    \n    <div class=\"scarcity-stock-box\">\n      <p class=\"scarcity-percent-text\"><span>86%</span> du stock déjà écoulé</p>\n      <div class=\"scarcity-progress-bg\">\n        <div class=\"scarcity-progress-fill\"></div>\n      </div>\n    </div>\n    \n    <p class=\"scarcity-footer\">Dernière mise à jour : il y a quelques secondes.</p>\n  </div>\n</div>\n\n<style>\n  .scarcity-container {\n    padding: 10px;\n    display: flex;\n    justify-content: center;\n    background-color: transparent;\n  }\n\n  .scarcity-card {\n    background-color: #ffffff;\n    border: 1px solid #dcdcdc;\n    border-radius: 18px; /* Arrondi fidèle à l'image */\n    padding: 30px 20px;\n    text-align: center;\n    width: 100%;\n    max-width: 750px;\n    box-shadow: 0 2px 4px rgba(0,0,0,0.03);\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n  }\n\n  .scarcity-main-title {\n    font-size: 34px;\n    font-weight: 900; /* Ultra gras */\n    margin: 0 0 8px 0;\n    color: #1d1d1f;\n    letter-spacing: -0.8px;\n    text-transform: uppercase;\n  }\n\n  .scarcity-sub-title {\n    font-size: 20px;\n    font-weight: 800;\n    margin: 0 0 12px 0;\n    color: #1d1d1f;\n  }\n\n  .scarcity-italic {\n    font-size: 15px;\n    font-style: italic;\n    color: #333333;\n    margin: 0 0 25px 0;\n    font-weight: 400;\n  }\n\n  .scarcity-percent-text {\n    color: #cc5c5c; /* Couleur rouge spécifique */\n    font-weight: 800;\n    font-size: 18px;\n    margin-bottom: 12px;\n  }\n\n  .scarcity-progress-bg {\n    background-color: #e0e0e0;\n    height: 16px;\n    border-radius: 20px;\n    width: 100%;\n    overflow: hidden;\n    margin-bottom: 15px;\n  }\n\n  .scarcity-progress-fill {\n    width: 86%;\n    height: 100%;\n    /* Dégradé exact de la capture */\n    background: linear-gradient(90deg, #d87b7b 0%, #a63939 100%);\n    border-radius: 20px;\n  }\n\n  .scarcity-footer {\n    font-size: 14px;\n    color: #666666;\n    margin: 0;\n    font-weight: 500;\n  }\n\n  /* Optimisation Mobile Fidèle */\n  @media screen and (max-width: 768px) {\n    .scarcity-card {\n      padding: 20px 15px;\n      border-radius: 12px;\n    }\n    .scarcity-main-title {\n      font-size: 24px;\n      letter-spacing: -0.5px;\n    }\n    .scarcity-sub-title {\n      font-size: 17px;\n    }\n    .scarcity-percent-text {\n      font-size: 16px;\n    }\n  }\n</style>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_aEYn66",
+        "liquid_MTYbzz",
+        "title",
+        "liquid_8iyw6q",
+        "liquid_pXy6AW",
+        "image_e7RPeA",
+        "liquid_inMHhX",
+        "liquid_6eJjJt",
+        "liquid_G8fPzp",
+        "image_M6BrMy",
+        "image_hCaMca",
+        "separator_Bd4pkp",
+        "buy_buttons_76Tegr",
+        "liquid_URAADp",
+        "image_nD7UnA",
+        "collapsible_text_fBhzjq",
+        "collapsible_text_J9FGb3",
+        "collapsible_text_9C3WQy",
+        "liquid_BjcDVy"
+      ],
+      "settings": {
+        "full_width": false,
+        "product": "foundation-dryskin",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "#eef1f6",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "custom_liquid_Lach4W": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .soya-dynamic-section {\n    background-color: #ecf1fa;\n    /* Padding haut réduit de 80% (60px -> 12px) */\n    padding: 12px 15px 60px 15px; \n    font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n    text-align: center;\n  }\n\n  .soya-main-title {\n    font-size: 36px;\n    font-weight: 800;\n    color: #0b2339;\n    line-height: 1.2;\n    margin-top: 0; /* Force la suppression de toute marge navigateur */\n    margin-bottom: 30px;\n    max-width: 800px;\n    margin-left: auto;\n    margin-right: auto;\n  }\n\n  .soya-nav {\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: center;\n    gap: 10px;\n    margin-bottom: 40px;\n  }\n\n  .soya-btn {\n    padding: 12px 20px;\n    border-radius: 8px;\n    font-size: 15px;\n    font-weight: 600;\n    border: none;\n    cursor: pointer;\n    background-color: #e9eff2;\n    color: #1a2b3c;\n    transition: all 0.3s ease;\n  }\n\n  .soya-btn.active {\n    background-color: #1a2b3c;\n    color: #ffffff;\n  }\n\n  .soya-card-display {\n    background-color: #f7f7f7;\n    border-radius: 20px;\n    padding: 40px 30px;\n    text-align: left;\n    max-width: 500px;\n    margin: 0 auto;\n    box-shadow: 0 10px 30px rgba(0,0,0,0.05);\n    min-height: 480px;\n    display: flex;\n    flex-direction: column;\n    justify-content: space-between;\n  }\n\n  .soya-stars-static {\n    font-size: 20px;\n    color: #0b2339;\n    margin-bottom: 15px;\n    display: block;\n  }\n\n  .soya-review-title {\n    font-size: 24px;\n    font-weight: 800;\n    color: #0b2339;\n    margin-bottom: 20px;\n    display: block;\n  }\n\n  .soya-review-text {\n    font-size: 16px;\n    line-height: 1.6;\n    color: #1a2b3c;\n    margin-bottom: 30px;\n  }\n\n  .soya-footer {\n    display: flex;\n    align-items: center;\n    gap: 15px;\n    border-top: 1px solid rgba(0,0,0,0.05);\n    padding-top: 20px;\n  }\n\n  .soya-img {\n    width: 65px;\n    height: 65px;\n    border-radius: 50%;\n    object-fit: cover;\n    border: 2px solid #fff;\n  }\n\n  .soya-info {\n    display: flex;\n    flex-direction: column;\n  }\n\n  .soya-author-name {\n    font-weight: 700;\n    font-size: 16px;\n    color: #0b2339;\n  }\n\n  .soya-badge {\n    font-size: 13px;\n    color: #1a2b3c;\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    margin-top: 4px;\n  }\n\n  .check-icon-svg {\n    width: 16px;\n    height: 16px;\n  }\n\n  .fade-in-anim {\n    animation: soyaFade 0.4s ease forwards;\n  }\n\n  @keyframes soyaFade {\n    from { opacity: 0; transform: translateY(10px); }\n    to { opacity: 1; transform: translateY(0); }\n  }\n\n  @media (max-width: 768px) {\n    .soya-main-title { font-size: 28px; }\n    .soya-card-display { padding: 30px 20px; min-height: 520px; }\n    .soya-dynamic-section { padding-top: 10px; }\n  }\n</style>\n\n<div class=\"soya-dynamic-section\">\n  <h2 class=\"soya-main-title\">Plus de 100 000 clients se réveillent désormais – sans douleurs !</h2>\n\n  <div class=\"soya-nav\">\n    <button class=\"soya-btn active\" onclick=\"updateSoya('cervicale', this)\">Douleur cervicale</button>\n    <button class=\"soya-btn\" onclick=\"updateSoya('migraines', this)\">Migraines</button>\n    <button class=\"soya-btn\" onclick=\"updateSoya('posture', this)\">Posture</button>\n    <button class=\"soya-btn\" onclick=\"updateSoya('ronflements', this)\">Ronflements</button>\n  </div>\n\n  <div class=\"soya-card-display\" id=\"soyaCard\">\n    <div id=\"contentWrapper\" class=\"fade-in-anim\">\n      <span class=\"soya-stars-static\">★★★★★</span>\n      <span class=\"soya-review-title\" id=\"revTitle\">Douleur cervicale</span>\n      <p class=\"soya-review-text\" id=\"revText\">\n        \"J'étais sceptique au début, mais après seulement trois nuits avec celui-ci, plus aucune raideur ni inconfort. Il y avait une légère odeur de fabrication au début, mais elle a disparu après quelques jours. Bien que la fermeté ait demandé un petit temps d'adaptation, le soulagement que j'ai trouvé en vaut largement la peine. Enfin, des nuits sans douleur ! \"\n      </p>\n\n      <div class=\"soya-footer\">\n        <img src=\"{{ '90.png' | file_img_url: '200x200', crop: 'center' }}\" class=\"soya-img\" id=\"revImg\">\n        <div class=\"soya-info\">\n          <span class=\"soya-author-name\" id=\"revName\">Richard. S</span>\n          <span class=\"soya-badge\">\n            <svg class=\"check-icon-svg\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#0b2339\"/>\n              <path d=\"M7 12L10 15L17 8\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n            Acheteur vérifié\n          </span>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n\n<script>\n  const reviewsData = {\n    cervicale: {\n      title: \"Douleur cervicale\",\n      text: \"\\\"J'étais sceptique au début, mais après seulement trois nuits avec celui-ci, plus aucune raideur ni inconfort. Il y avait une légère odeur de fabrication au début, mais elle a disparu après quelques jours. Bien que la fermeté ait demandé un petit temps d'adaptation, le soulagement que j'ai trouvé en vaut largement la peine. Enfin, des nuits sans douleur ! \\\"\",\n      name: \"Richard. S\",\n      img: \"{{ '90.png' | file_img_url: '200x200', crop: 'center' }}\"\n    },\n    migraines: {\n      title: \"Migraines\",\n      text: \"“ Je souffrais de migraines chroniques depuis toujours et j’avais testé de nombreux oreillers sans succès. J’étais sceptique, mais après trois nuits, plus aucune douleur à la tête ni aux épaules ! J’aurais préféré qu’il soit un peu plus grand, mais ce détail est minime comparé au confort qu’il m’a apporté. Cet oreiller a vraiment transformé mes nuits ! Merci SOYA.”\",\n      name: \"Sarah. M\",\n      img: \"{{ '88_2.png' | file_img_url: '200x200', crop: 'center' }}\"\n    },\n    posture: {\n      title: \"Posture\",\n      text: \"\\\"Depuis que j’utilise cet oreiller, ma posture s’est nettement améliorée. Il maintient ma tête et mon cou alignés, ce qui soulage la pression sur ma colonne vertébrale. Dès les premières nuits, j’ai ressenti une vraie différence au réveil : moins de raideurs et une posture bien plus droite. C’est un changement que je n’aurais jamais cru possible avec un simple oreiller !\\\"\",\n      name: \"Barbara. P\",\n      img: \"{{ '89.png' | file_img_url: '200x200', crop: 'center' }}\"\n    },\n    ronflements: {\n      title: \"Ronflements\",\n      text: \"\\\"Mon conjoint ne se plaint plus de mes ronflements depuis que j'utilise l'oreiller SOYA. Ma respiration est plus libre et je me réveille beaucoup plus reposé chaque matin. C'est un vrai soulagement pour nous deux.\\\"\",\n      name: \"Thomas. L\",\n      img: \"{{ '91.png' | file_img_url: '200x200', crop: 'center' }}\"\n    }\n  };\n\n  function updateSoya(key, btn) {\n    const wrapper = document.getElementById('contentWrapper');\n    wrapper.style.opacity = '0';\n    \n    setTimeout(() => {\n      document.querySelectorAll('.soya-btn').forEach(b => b.classList.remove('active'));\n      btn.classList.add('active');\n\n      const data = reviewsData[key];\n      document.getElementById('revTitle').innerText = data.title;\n      document.getElementById('revText').innerText = data.text;\n      document.getElementById('revName').innerText = data.name;\n      document.getElementById('revImg').src = data.img;\n      \n      wrapper.style.opacity = '1';\n    }, 200);\n  }\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_HyfXhU": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .trustpilot-reviews-section {\n    display: flex;\n    justify-content: space-between;\n    padding: 20px;\n    background-color: #fff0de;\n    border-radius: 8px;\n    position: relative;\n  }\n\n  .trustpilot-summary {\n    flex-basis: 20%;\n    text-align: left;\n  }\n\n  .trustpilot-summary h2 {\n    font-size: 24px;\n    font-weight: bold;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-stars img {\n    width: 100px;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-logo {\n    width: 50px; /* Taille réduite */\n    margin-top: 10px;\n  }\n\n  .review-carousel {\n    display: flex;\n    flex-basis: 75%;\n    overflow: hidden;\n    position: relative;\n  }\n\n  .review-card {\n    width: 270px;\n    padding: 15px;\n    margin-right: 15px;\n    background-color: #fbeedb;\n    border: 1px solid #eaeaea;\n    border-radius: 8px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    transition: transform 0.3s ease;\n    flex-shrink: 0;\n  }\n\n  .review-card:hover {\n    transform: scale(1.05);\n  }\n\n  .review-card img {\n    width: 70px;\n  }\n\n  .review-card p {\n    margin: 5px 0;\n    font-size: 14px;\n  }\n\n  .review-card strong {\n    font-weight: bold;\n  }\n\n  .nav-arrow {\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    background-color: #f6f1e6;\n    border: 2px solid #ddd;\n    border-radius: 50%;\n    width: 40px;\n    height: 40px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    cursor: pointer;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n  }\n\n  .nav-arrow:hover {\n    background-color: #f6f1e6;\n    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);\n  }\n\n  .arrow-left {\n    left: -20px; \n  }\n\n  .arrow-right {\n    right: -20px; \n  }\n\n  .nav-arrow::before {\n    content: '';\n    display: block;\n    border: solid #333;\n    border-width: 0 3px 3px 0;\n    padding: 5px;\n  }\n\n  .arrow-left::before {\n    transform: rotate(135deg);\n  }\n\n  .arrow-right::before {\n    transform: rotate(-45deg);\n  }\n\n  @media (max-width: 768px) {\n    .trustpilot-reviews-section {\n      flex-direction: column;\n      padding: 10px;\n    }\n\n    .trustpilot-summary {\n      flex-basis: 100%;\n      text-align: center; \n      margin-bottom: 20px;\n    }\n\n    .trustpilot-stars img {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .trustpilot-logo {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .review-carousel {\n      flex-basis: 100%;\n      overflow-x: auto;\n      padding-bottom: 10px;\n    }\n\n    .review-card {\n      min-width: 85%;\n      margin-right: 10px;\n    }\n\n    .nav-arrow {\n      display: none;\n    }\n  }\n</style>\n\n<div class=\"trustpilot-reviews-section\">\n  <div class=\"trustpilot-summary\">\n    <h2>Excellent !</h2>\n    <div class=\"trustpilot-stars\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n    </div>\n    <p>Basé sur plus de 13,450 avis</p>\n    <img class=\"trustpilot-logo\" src=\"https://companieslogo.com/img/orig/TRST.L_BIG-743be58a.png?t=1720244494\">\n  </div>\n\n  <div class=\"review-carousel\" id=\"review-carousel\">\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p></p>\n      <p>Ça fonctionne très bien et je ne l'utilise pratiquement plus juste 2 jours et les aboiements intempestifs c'est fini. Je ne suis absolument pas contre les aboiements mais un de mes chiens regarde la télé et aboie quand il y a des animaux même dans un dessin animé.</p>\n      <p><strong>Pascale C. – Paris, France</strong> - 23/01/2025</p>\n    </div>\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Livraison rapide, excellente qualité</p>\n      <p>La commande a été livrée très rapidement et la qualité de l'AlphaBar est vraiment top. Une mention spéciale pour le packaging super bien fait.</p>\n      <p><strong>Amanda R. – Los Angeles, CA</strong> - 23/08/2024</p>\n    </div>\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Leur produit est une vraie plus-value</p>\n      <p>Je comprends maintenant pourquoi elle fait autant parler d’elle. Bravo pour cette innovation, elle mérite clairement son succès ici à Miami.</p>\n      <p><strong>Mike S. – Brooklyn, NY</strong> - 13/02/2025</p>\n    </div>\n  </div>\n\n  <button class=\"nav-arrow arrow-left\" onclick=\"scrollReviews(-1)\"></button>\n  <button class=\"nav-arrow arrow-right\" onclick=\"scrollReviews(1)\"></button>\n</div>\n\n<script>\n  const reviewCarousel = document.getElementById('review-carousel');\n\n  function scrollReviews(direction) {\n    const scrollAmount = 320;\n    reviewCarousel.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });\n  }\n\n  // Auto-scroll toutes les 3 secondes\n  let autoScrollInterval = setInterval(() => {\n    scrollReviews(1);\n  }, 3000);\n\n  // Stop auto-scroll quand l'utilisateur interagit\n  document.querySelectorAll('.nav-arrow').forEach(arrow => {\n    arrow.addEventListener('click', () => {\n      clearInterval(autoScrollInterval);\n    });\n  });\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_3QaB4P": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CrKDxr": {
+          "type": "heading",
+          "settings": {
+            "text": "\"Sans contrainte, ni danger\"",
+            "heading_tag": "h1",
+            "text_color": "#000000",
+            "gradient": ""
+          }
+        },
+        "richtext_qGxRYK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Jugé <strong>100% sans danger</strong> par <strong>Dr. Antoine Drevon </strong>(Vétérinaire mixte dominante animaux de compagnie)<br/><br/><em><strong>\"Ce dispositif innovant a été testé sous nos yeux et d'après nos études il ne présente aucun danger pour le chien et ne le contrarie aucunement au vu des résultats auditifs\"</strong></em></p>"
+          }
+        },
+        "image_G9Tgie": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        }
+      },
+      "block_order": [
+        "heading_CrKDxr",
+        "richtext_qGxRYK",
+        "image_G9Tgie"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_w9mXhf": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"soya-wrapper\">\n  <div class=\"soya-card\">\n    <h2 class=\"soya-main-title\">Orthopédo 2.0 — L’évolution de vos nuits, validée par les experts</h2>\n    \n    <p class=\"soya-intro\">\n      Après plus de <strong>100 000 dormeurs</strong> conquis par le ORTHOPEDO 2.0, nous avons rassemblé vos retours et collaboré avec des <strong>praticiens</strong> et <strong>experts du sommeil</strong> pour créer le <strong>ORTHOPEDO 2.0</strong>. Il conserve ce que vous aimez du 2.0 et va plus loin en précision, fraîcheur et personnalisation.\n    </p>\n\n    <div class=\"soya-features\">\n      <div class=\"soya-item\">\n        <div class=\"soya-icon\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n        </div>\n        <div class=\"soya-content\">\n          <h3>Mousse intelligente 2.0</h3>\n          <p>Nouvelle mousse <strong>intelligente</strong> à mémoire de forme 2.0 : <strong>équilibre parfait</strong> entre maintien et confort, réponse précise à vos points de pression et <strong>durabilité</strong> renforcée nuit après nuit.</p>\n        </div>\n      </div>\n\n      <div class=\"soya-item\">\n        <div class=\"soya-icon\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n        </div>\n        <div class=\"soya-content\">\n          <h3>Position de sommeil optimale</h3>\n          <p>Notre oreiller est conçu pour assurer un <strong>alignement parfait de la colonne vertébrale</strong>, favorisant une posture allongée idéale <strong>sur le dos</strong> ou <strong>sur le côté</strong> pour un sommeil véritablement réparateur.</p>\n        </div>\n      </div>\n\n      <div class=\"soya-item\">\n        <div class=\"soya-icon\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n        </div>\n        <div class=\"soya-content\">\n          <h3>Housse respirante en fibre de bambou</h3>\n          <p>Housse premium en <strong>fibre de bambou</strong> : naturellement respirante, douce et <strong>hypoallergénique</strong>, pour une fraîcheur durable et une hygiène irréprochable toute la nuit.</p>\n        </div>\n      </div>\n\n      <div class=\"soya-item\">\n        <div class=\"soya-icon\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n        </div>\n        <div class=\"soya-content\">\n          <h3>Confort & hauteur personnalisables</h3>\n          <p>Deux <strong>hauteurs</strong> au choix pour adapter l’épaisseur à votre morphologie et à votre position de sommeil, avec un <strong>équilibre maintien/confort</strong> optimisé.</p>\n        </div>\n      </div>\n    </div>\n  </div>\n\n  <p class=\"soya-final-footer\">Le ORTHOPEDO V1 a transformé vos nuits. Le <strong>ORTHOPEDO 2.0</strong> les perfectionne.</p>\n</div>\n\n<style>\n  .soya-wrapper {\n    max-width: 480px;\n    margin: 15px auto;\n    font-family: -apple-system, BlinkMacSystemFont, sans-serif;\n    padding: 0 10px;\n  }\n\n  .soya-card {\n    background: #ffffff;\n    border: 1px solid #e8e8e8;\n    border-radius: 10px;\n    padding: 18px;\n    box-shadow: 0 2px 8px rgba(0,0,0,0.04);\n  }\n\n  .soya-main-title {\n    font-size: 15px;\n    font-weight: 800;\n    line-height: 1.3;\n    margin: 0 0 10px 0;\n    color: #1a2b43;\n  }\n\n  .soya-intro {\n    font-size: 11.5px;\n    line-height: 1.4;\n    color: #555;\n    margin-bottom: 18px;\n  }\n\n  .soya-features {\n    display: flex;\n    flex-direction: column;\n    gap: 14px;\n  }\n\n  .soya-item {\n    display: flex;\n    gap: 10px;\n    align-items: flex-start;\n  }\n\n  .soya-icon {\n    width: 16px;\n    height: 16px;\n    background-color: #3b71d8;\n    color: white;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n    margin-top: 2px;\n  }\n\n  .soya-icon svg {\n    width: 10px;\n    height: 10px;\n  }\n\n  .soya-content h3 {\n    font-size: 12.5px;\n    font-weight: 700;\n    margin: 0 0 3px 0;\n    color: #1a2b43;\n  }\n\n  .soya-content p {\n    font-size: 11px;\n    line-height: 1.4;\n    margin: 0;\n    color: #666;\n  }\n\n  /* Style de la phrase finale selon ta capture */\n  .soya-final-footer {\n    margin-top: 15px;\n    font-size: 12px;\n    color: #666;\n    text-align: left;\n    padding-left: 5px; /* Aligné avec le bord de la carte */\n  }\n\n  @media (max-width: 480px) {\n    .soya-wrapper { max-width: 100%; }\n    .soya-card { padding: 15px; }\n    .soya-main-title { font-size: 14px; }\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_VJaV9J": {
+      "type": "rich-text",
+      "blocks": {
+        "icon_aBB8UY": {
+          "type": "icon",
+          "settings": {
+            "icon": "picto-leaf",
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#00a341",
+            "icon_color": ""
+          }
+        },
+        "heading_cHh77Q": {
+          "type": "heading",
+          "settings": {
+            "text": "Le respect de la biodiversité",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_PNzGMc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>La Nature nous offre tant ! En retour, il est de notre devoir d’en prendre soin.<br/></strong><em>Chez Orthopédo, nous utilisons des matériaux durables et réduisons notre impact à chaque étape pour préserver au maximum notre environnement.<br/><br/></em><a href=\"https://www.wwf.fr/champs-daction?reserved_code_origine=26FIL-ADSGADSWEB&gad_source=1&gad_campaignid=11959487477&gbraid=0AAAAADqxWh-xfQ6fhNYGqel949DE0gozc&gclid=Cj0KCQiA-YvMBhDtARIsAHZuUzI1h9gy8e5Afn1Yp0Y90lPZ7rI9jzKkC2aginHuYkbwzLczfplL6fIaAlvAEALw_wcB\" target=\"_blank\" title=\"https://www.wwf.fr/champs-daction?reserved_code_origine=26FIL-ADSGADSWEB&gad_source=1&gad_campaignid=11959487477&gbraid=0AAAAADqxWh-xfQ6fhNYGqel949DE0gozc&gclid=Cj0KCQiA-YvMBhDtARIsAHZuUzI1h9gy8e5Afn1Yp0Y90lPZ7rI9jzKkC2aginHuYkbwzLczfplL6fIaAlvAEALw_wcB\"><em>FAIRE UN DON POUR L'ENVIRONNEMENT</em></a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon_aBB8UY",
+        "heading_cHh77Q",
+        "richtext_PNzGMc"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_GL7fC9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3LVEiF": {
+          "type": "heading",
+          "settings": {
+            "text": "Notre oreiller ou un oreiller classique ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_3LVEiF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_wNkMgU": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "L’oreiller est-il ferme ou moelleux ?",
+            "content": "<p>L’oreiller Orthopédo V2 a été conçu pour offrir un équilibre idéal entre fermeté et confort. Sa mousse à mémoire de forme haute densité garantit un maintien optimal des cervicales, tout en épousant naturellement les contours de la tête et du cou pour un accueil moelleux.</p>"
+          }
+        },
+        "item_AnpB99": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il adapté à toutes les positions de sommeil ?",
+            "content": "<p>Oui. Que vous dormiez sur le dos, le côté ou même sur le ventre, l’oreiller Orthopédo V2 s’ajuste à votre position grâce à sa conception ergonomique. Il permet un alignement optimal de la colonne vertébrale dans toutes les postures.</p>"
+          }
+        },
+        "item_pTa7kH": {
+          "type": "item",
+          "settings": {
+            "title": "L’oreiller est-il compatible avec les masques nasaux et l’apnée du sommeil ?",
+            "content": "<p>Oui. L’oreiller Orthopédo V2 est parfaitement adapté aux personnes portant un masque nasal ou concernées par l’apnée du sommeil légère à modérée. Sa forme ergonomique favorise un bon alignement des voies respiratoires, ce qui contribue à une respiration fluide tout au long de la nuit.</p>"
+          }
+        },
+        "item_whxbiK": {
+          "type": "item",
+          "settings": {
+            "title": "L’oreiller est-il efficace contre les ronflements ?",
+            "content": "<p>Totalement testé et approuvré. L’oreiller Orthopédo V2 favorise un bon alignement de la tête, du cou et des voies respiratoires, ce qui peut réduire considérablement les ronflements liés à une mauvaise posture durant la nuit.</p>"
+          }
+        },
+        "item_XWW4DQ": {
+          "type": "item",
+          "settings": {
+            "title": "Comment l’oreiller agit-il sur les douleurs cervicales ?",
+            "content": "<p>L’oreiller Orthopédo 2.0 soutient la courbure naturelle des cervicales et aligne la colonne vertébrale durant le sommeil. Il permet ainsi de réduire les tensions musculaires et de prévenir les douleurs liées aux mauvaises postures nocturnes.</p>"
+          }
+        },
+        "item_UEDWTA": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps faut-il pour s’habituer à l’oreiller ?",
+            "content": "<p>La plupart des utilisateurs s’habituent en quelques nuits. Une période d’adaptation de 3 à 7 jours est normale afin que le corps s’ajuste au nouvel alignement cervical offert par l’oreiller.</p>"
+          }
+        },
+        "item_e6DNPN": {
+          "type": "item",
+          "settings": {
+            "title": "En combien de temps peut-on constater une amélioration ?",
+            "content": "<p>Les premiers effets se ressentent souvent dès la première nuit : sommeil plus profond, diminution des tensions cervicales, réveil plus léger. Une amélioration notable est généralement observée au bout d’une à deux semaines d’utilisation.</p>"
+          }
+        },
+        "item_8aMRmN": {
+          "type": "item",
+          "settings": {
+            "title": "Offrez-vous une garantie de remboursement ?",
+            "content": "<p>Oui, nous offrons une garantie satisfait ou remboursé de 30 jours. Contactez-nous par e-mail ou laissez-nous un message sur la page « Contactez-nous ».</p>"
+          }
+        },
+        "item_ipJipA": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il un risque que l’oreiller reste plat à la réception ?",
+            "content": "<p>Non. L’oreiller est compressé pour l’expédition, mais il reprend sa forme initiale en quelques minutes. Il suffit de le laisser à l’air libre (hors housse) dès l’ouverture, et il retrouve sa densité optimale sans problème.</p>"
+          }
+        },
+        "item_K7zRn8": {
+          "type": "item",
+          "settings": {
+            "title": "Améliore-t-il vraiment la qualité de mon sommeil ?",
+            "content": "<p>En favorisant un bon alignement postural et une respiration plus fluide, il contribue à un endormissement plus rapide, une diminution des micro-réveils et un sommeil globalement plus réparateur.</p>"
+          }
+        },
+        "item_TTkQqE": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps prend l'expédition ?",
+            "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 3 à 5 jours.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "item_AnpB99",
+        "item_pTa7kH",
+        "item_whxbiK",
+        "item_XWW4DQ",
+        "item_UEDWTA",
+        "item_e6DNPN",
+        "item_8aMRmN",
+        "item_ipJipA",
+        "item_K7zRn8",
+        "item_TTkQqE"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Notre service client est disponible du Lundi au Vendredi de 8h à 18h",
+        "answer_time": "Temps de réponse moyen : 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#eef1f6",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "contact_eb9WnF": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Avez vous une question ?",
+        "content": "",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     }
   },
   "order": [
-    "nexora"
+    "image_with_text_overlay_ypzegc",
+    "logo_list_ziyRGK",
+    "rich_text_tnkaEn",
+    "rich_text_GaYXCf",
+    "scrolling-text",
+    "image_with_text_overlay_GwYhDd",
+    "rich_text_mihemB",
+    "rich_text_prXEkr",
+    "custom_liquid_iQzBDy",
+    "testimonial_pro_Qqrcjr",
+    "multi_column_CrGHPL",
+    "featured-product",
+    "custom_liquid_Lach4W",
+    "custom_liquid_HyfXhU",
+    "rich_text_3QaB4P",
+    "custom_liquid_w9mXhf",
+    "rich_text_VJaV9J",
+    "rich_text_GL7fC9",
+    "image_with_text_overlay_wNkMgU",
+    "faq",
+    "contact_eb9WnF"
   ]
 }
